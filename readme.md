@@ -1,5 +1,5 @@
 ---
-##💸 eSewa PHP Integration Starter
+💸 eSewa PHP Integration Starter
 
 A simple and reusable PHP boilerplate to integrate **eSewa** – Nepal's leading online payment gateway – into your web application quickly and efficiently. 🚀
 ---
